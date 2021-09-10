@@ -8,4 +8,4 @@ Problems
 7. Problems finding the database - fix look to the left side in inteij where you can find "database" 
 
 ![Alt text](https://github.com/Sigvah/DAT250_experiments/blob/main/Screenshot%20from%202021-09-08%2018-07-08.png)
-![Alt text](https://github.com/Sigvah/DAT250_experiments/blob/main/Screenshot%20from%202021-09-10%2002-05-34.)
+![Alt text](https://github.com/Sigvah/DAT250_experiments/blob/main/Screenshot%20from%202021-09-10%2002-05-34.png)
