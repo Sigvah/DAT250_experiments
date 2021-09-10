@@ -14,6 +14,7 @@ https://github.com/Sigvah/jpa_example
 Experient 1
 ![Alt text](https://github.com/Sigvah/DAT250_experiments/blob/main/Screenshot%20from%202021-09-08%2018-07-08.png)
 Experient 2
+To inspect it I used intelijes database tool found on the right side, from there I entered Apache Derby, entered the path I wanted to store the database entered user: test password: test and voila I could inspect from intelij. 
 ![Alt text](https://github.com/Sigvah/DAT250_experiments/blob/main/Screenshot%20from%202021-09-10%2002-05-34.png)
 
 
