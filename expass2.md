@@ -5,8 +5,10 @@ Problems
 4. lombok was a bit of a hassle, but after restarting maven with ctrl shift a "reload all maven projects" everything worked
 5. Found it to be a hassle making a new project for step 6 and did not see a reason I could not do it in the same project. --Fix did that.
 6. junittests worked the first time, but afterwards "checkFamiliy" test fails. No solution found
-7. Problems finding the database - fix look to the left side in inteij where you can find "database" 
-8. In part two I copied the person class to person2 and made changes to fit what I needed, this ofcourse made lots of errors, but they were all easy fixes except the relasion person address. I still don't have a proper fix as you can see from the screenshot (halfbaked connection between person2 and address). I wonder if the problem is that I have two primarykeys in Address 
+
+
+Problems finding the database - fix look to the left side in inteij where you can find "database" 
+In part two the relasion person address does not work proparly. I still don't have a proper fix as you can see from the screenshot (halfbaked connection between person2 and address). I think the problem might be that I have two primarykeys in Address.
 
 Code:
 https://github.com/Sigvah/jpa_example
