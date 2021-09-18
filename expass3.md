@@ -26,4 +26,6 @@ db.orders.mapReduce(
 { "_id" : "Busby Bee", "value" : 50 }
 { "_id" : "Don Quis", "value" : 75 }
 
-Super simple, changed the first example to only give the value of chocolates. Could be usefull for targeting customer with adds, adjust prices and adjust placement in store to give a few examples.
+Super simple, changed the first example to only give the value of chocolates. Could be useful for targeting customer with ads, adjust prices and adjust placement in store to give a few examples. 
+
+Pending issue. Did not manage to verify mongodb, as I am not used to docker and searching for help yielded no results (probably because docker vailidates implicitly). 
