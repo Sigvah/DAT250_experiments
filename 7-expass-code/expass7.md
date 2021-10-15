@@ -1,0 +1,1 @@
+First tried to use docker, but that was a bit stress so I downloaded it instead. Arch has a nice guide, but I had to restart (or logout maybe) to be able to start rabbitqm, next problem was connecting to localhost:5672
