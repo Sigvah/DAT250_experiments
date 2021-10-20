@@ -1,1 +1,2 @@
-First tried to use docker, but that was a bit stress so I downloaded it instead. Arch has a nice guide, but I had to restart (or logout maybe) to be able to start rabbitqm, next problem was connecting to localhost:5672
+First tried to use docker, but that was a bit stress so I downloaded it instead. Arch has a nice guide, but I had to restart (or logout maybe) to be able to start rabbitqm, next problem was connecting to localhost:5672. After trying a few things I ended up changing the conf file "nodename=rabbit@sigvearch" to "nodename=localhost" which apprently has some problems according to arch wiki. Then after some googling a found "rabbitmq-plugins enable rabbitmq_management" which let me open localhost:15672.
+
